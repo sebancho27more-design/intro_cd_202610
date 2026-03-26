@@ -11,3 +11,5 @@ Colombia vs croacia
 ###### Nivel 6 (H6)
 Imagen simple
 ![Texto alternativo](descarga.jpg)
+Imagen desde URL externa 
+![Logo](https://github.com/sebancho27more-design/intro_cd_202610/blob/main/descarga.jpg)
